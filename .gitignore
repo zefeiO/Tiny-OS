@@ -1,0 +1,6 @@
+.vscode
+.DS_Store
+arm-gnu-toolchain-12.2.mpacbti-rel1-darwin-arm64-arm-none-eabi/
+*.o
+*.elf
+*.img
